@@ -20,6 +20,8 @@ Team Noobs' members:
  and also the workspace was working very slowly in comparison to our own machines.
 * Due to time constraints, we set a goal to further improve our models after we finish the very interesting and enriching experience that is the SDCE nanodegree.
 
+* And one last thing - since we worked as a team of two, we don't really mind if the code doesn't get checked on CARLA
+
 Thank you very much and we hope to meet again :)
 
 Gal and Sam
